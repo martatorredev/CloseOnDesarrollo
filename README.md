@@ -4,11 +4,11 @@ Diseño y desarrollo de cooming soon
 
 ##Descripción
 
-Cooming soon para lo que será la nueva web de noradriana con varias secciones descriptivas sobre sus servicios.
+Landing para cerrar la web de OnDesarrollo
 
 ##Lenguajes
 
-HTML / CSS / JS / PHP
+HTML / CSS / JS 
 
 ##Desarrollado por
 
