@@ -12,8 +12,8 @@ HTML / CSS / JS
 
 ##Desarrollado por
 
-Marta Torre
+<a href="https://martatorre.dev" target="_blank"> Marta Torre.</a>
 
 ##Diseñado por
 
-<a href="https://noraferreiros.com" target="_blank">Nora Ferreirós</a>
+<a href="https://noraferreiros.com" target="_blank">Nora Ferreirós.</a>
