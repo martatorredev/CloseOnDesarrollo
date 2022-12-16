@@ -224,3 +224,14 @@ h5 {
 	}
 }
 
+.content .minititle a {
+	color: #f4dbb2;
+	text-decoration: underline;
+	transition: all 0.2s ease;
+
+}
+
+.content .minititle a:hover {
+	color: #812529;
+	text-decoration: underline;
+}
