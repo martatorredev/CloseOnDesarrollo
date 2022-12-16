@@ -16,4 +16,4 @@ Marta Torre
 
 ##Diseñado por
 
-Nora Ferreirós
+<a href="https://noraferreiros.com" target="_blank">Nora Ferreirós</a>
