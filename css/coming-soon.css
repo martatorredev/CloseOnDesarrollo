@@ -105,6 +105,21 @@ h5 {
 	margin: 25px auto 45px;
 }
 
+.boss {
+	font-size: 24px;
+	font-family: 'Futura Std';
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 34px;
+	letter-spacing: 0;
+	text-align: center;
+	color: #ffffff;
+	width: 100%;
+	max-width: 700px;
+	margin: 25px auto 45px;
+}
+
 .cuadrado {
 	background-color: rgba(48, 48, 48, 0.4);
 	border: solid 1px #f4dbb2;
@@ -203,6 +218,12 @@ h5 {
 		margin: 15px auto 25px;
 	}
 
+	.boss {
+		font-size: 16px;
+		line-height: 22px;
+		margin: 15px auto 25px;
+	}
+
 	.cuadrado {
 		width:99%;
 	}
@@ -232,6 +253,18 @@ h5 {
 }
 
 .content .minititle a:hover {
+	color: #812529;
+	text-decoration: underline;
+}
+
+.content .boss a {
+	color: #f4dbb2;
+	text-decoration: underline;
+	transition: all 0.2s ease;
+
+}
+
+.content .boss a:hover {
 	color: #812529;
 	text-decoration: underline;
 }
